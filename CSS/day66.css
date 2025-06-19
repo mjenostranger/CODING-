@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+p{
+    color: azure;
+}
+     /*class selector  
+     id selector
+     universal selector
+     element selector*/
+  button{
+    background-color: blue;
+    color: azure;
+  }
+  
+  *{
+    margin: 0%;
+    padding: 0%;
+    background-color: brown;
+  }
+  .para{
+    color: blue;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+  }
+  .para-1{
+      font-family: "Roboto", sans-serif;
+  }
+  .hii{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    font-style: italic;
+    text-align: center;
+    text-transform: uppercase;
+    text-decoration-line: underline;
+  }
+  #para id{
+    color: black;
+  }
+
